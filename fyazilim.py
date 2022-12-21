@@ -1,9 +1,8 @@
 import sys
 import tkinter as tk
-import getpass
 import os
 from tkinter import messagebox
-message = " Hacked By Poyraz with FYazilim \n\n Bu Yazılım Şaka Amaçlıdır Fakat Lütfen \n\n  Gerçek Fidye Yazılımlarına Karşı Dikkat Edin \n\n Şimdi Kilidi Açmak İçin Gerekli Kodu Aşağıdaki  \n\n Bağlantılardan Elde Edebilirsiniz "
+message = "Hacked By Poyraz with FYazilim \n\n This Ransomware Is A Joke \n\n But Be Careful For Real Ransomwares. \n\n ŞNow You Can Get Key \n\n With The Links. "
 def  dcat():
     messagebox.showinfo("Al","Programın Bu Sürümünde Şifreyi Açık Olarak Veriyorum. Bi Dahakine Affetmem :)  \nŞifre: {}".format(escapecode))
 escapecode = "matkapisthebest"
